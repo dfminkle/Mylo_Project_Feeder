@@ -28,11 +28,11 @@ shaved 1.3 minutes of his eating time in the slow feeder.
 All this data, and the stats behind it, are explored in the notebook
 below!
 
-![](/Users/DanMinkler/Dropbox/My%20Mac%20(new-host-4.home)/Documents/Mylo/Mylo%20Slow%20Feeder%20Project/Photos/pup_waiting.jpeg)
+![](pup_waiting.jpeg?raw=true)
 
 ## The two feeders
 
-![](/Users/DanMinkler/Dropbox/My%20Mac%20(new-host-4.home)/Documents/Mylo/Mylo%20Slow%20Feeder%20Project/Photos/both_feeders.jpeg)
+![](both_feeders.jpeg?raw=true)
 
 ## Methods
 
@@ -571,15 +571,15 @@ distributed) in the feeder.
 
 ### Evenly Distributed Food in the Feeder
 
-![](/Users/DanMinkler/Dropbox/My%20Mac%20(new-host-4.home)/Documents/Mylo/Mylo%20Slow%20Feeder%20Project/Photos/even_dist.jpeg)
+![](even_dist.jpeg?raw=true)
 
 ### Center Pour
 
-![](/Users/DanMinkler/Dropbox/My%20Mac%20(new-host-4.home)/Documents/Mylo/Mylo%20Slow%20Feeder%20Project/Photos/center_pour.jpeg)
+![](center_pour.jpeg?raw=true)
 
 ### Mylo Being Somewhat Fed Up with this Whole Thing
 
-![](/Users/DanMinkler/Dropbox/My%20Mac%20(new-host-4.home)/Documents/Mylo/Mylo%20Slow%20Feeder%20Project/Photos/Cute1.jpeg)
+![](Cute1.jpeg?raw=true)
 
 ## Data Upload from Excel File and Merge to Existing Data
 
@@ -1076,4 +1076,4 @@ In hindsight, I would have done this at the time of purchase. Next time
 I get a new feeder, I’ll know what I need to do!
 
 Anyways, all this data and eating has pup tired
-![](/Users/DanMinkler/Dropbox/My%20Mac%20(new-host-4.home)/Documents/Mylo/Mylo%20Slow%20Feeder%20Project/Photos/tired_buddy.jpeg)
+![](tired_buddy.jpeg?raw=true)
