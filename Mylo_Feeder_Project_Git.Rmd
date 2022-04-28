@@ -2,7 +2,7 @@
 title: "Mylo Slow Feeder"
 author: "Dan Minkler"
 date: "4/28/2022"
-output: html_document
+output: github_document
 ---
 
 # Project Overview 
